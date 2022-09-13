@@ -1,7 +1,7 @@
 ### Hi there 👋
 📫 How to reach me: chagedorn@falcon.bentley.edu
 
-💬 How to work with me: [link](https://devplex.studio/)
+💬 How to work with me: [DEVPLEX STUDIO](https://devplex.studio/)
 
 <!--
 **ChrisHagedorn/ChrisHagedorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
