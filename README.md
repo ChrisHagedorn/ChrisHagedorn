@@ -1,19 +1,16 @@
-### Hi there 👋
-📫 How to reach me: chagedorn@falcon.bentley.edu
+## Hi there ☀️👨🏻‍💻
 
-💬 How to work with me: [DEVPLEX STUDIO](https://devplex.studio/)
+##### **I'm a Full-Stack Web Developer currently studying at Bentley University in Waltham, MA.**
 
-<!--
-**ChrisHagedorn/ChrisHagedorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="font-size:0.9em; font-weight: bold;">BIO</span>
 
-Here are some ideas to get you started:
+<span style="font-size:0.7em;">- 📫 How to reach me: chagedorn@falcon.bentley.edu</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="font-size:0.7em;">- 💬 How to work with me: [devplex studio](https://devplex.studio/)</span>
+
+<span style="font-size:0.7em;">- 🤖 I use 
+<code>.react</code>,
+<code>.html</code>,
+<code>.js</code>,
+<code>.typescript</code> daily.
+</span>
