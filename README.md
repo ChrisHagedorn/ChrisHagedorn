@@ -14,4 +14,5 @@
 <code>.js</code>,
 <code>.typescript</code> daily.
 </span>
+
 <span style="font-size:10px;">- 🌀 Currently working on open source projects and crypto based casinos for some big NFT projects.
