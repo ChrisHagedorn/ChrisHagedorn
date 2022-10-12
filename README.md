@@ -16,3 +16,4 @@
 </span>
 
 <span style="font-size:10px;">- 🌀 Currently working on open source projects and crypto based casinos for some big NFT projects.
+<span style="font-size:10px;">- 🤝 I am looking for a full-time position in the SWE field.
