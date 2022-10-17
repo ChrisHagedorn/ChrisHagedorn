@@ -19,4 +19,5 @@
 
 <span style="font-size:10px;">- 🤝 I am looking for a full-time position in the SWE field.
 NFTs: tensor (live) // gemworks (live) // nft-armory (live) // nft-ape (live)
+  
 <span style="font-size:10px;">- 🚧 Some stuff I help build [JellyDrop](https://www.jellydrop.io/) // [Looties V2](https://www.looties.app/) </span>
