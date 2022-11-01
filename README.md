@@ -19,4 +19,4 @@
 
 <span style="font-size:10px;">- 🤝 I am looking for a full-time position in the SWE field.
   
-<span style="font-size:10px;">- 🚧 Some stuff I help build: [jellydrop.io](https://www.jellydrop.io/) // [looties.app](https://www.looties.app/) </span>
+<span style="font-size:10px;">- 🚧 Some stuff I help build: [jellydrop.io](https://www.jellydrop.io/) // [looties.app](https://www.looties.app/ // [bentleyblockchain.com](https://www.bentleyblockchain.com/) </span>
