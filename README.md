@@ -8,7 +8,7 @@
 <span style="font-size: 10px;">- 📫 How to reach me: chagedorn@falcon.bentley.edu</span>
 
 <span style="font-size:10px;">- 💬 How to work with me: [devplex studio](https://devplex.studio/)</span>
-
+<span style="font-size:10px;">- 💬 Telegram: @chrishagedorn</span>
 <span style="font-size10px;">- 🤖 I use 
 <code>.react</code>,
 <code>.html</code>,
