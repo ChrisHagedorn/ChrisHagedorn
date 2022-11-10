@@ -1,7 +1,6 @@
 ## Hi there ☀️👨🏻‍💻
 
 ##### **I'm a Full-Stack Web Developer currently studying at Bentley University in Waltham, MA.**
-##### **Currently at Solana Breakpoint in Lisbon 🇵🇹**
 
 <span style="font-size: 12px; font-weight: bold;">BIO</span>
 
