@@ -12,7 +12,6 @@
 
 <span style="font-size10px;">- 🤖 I use 
 <code>.react</code>,
-<code>.html</code>,
 <code>.js</code>,
 <code>.typescript</code> daily.
 </span>
