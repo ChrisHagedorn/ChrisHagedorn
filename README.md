@@ -20,7 +20,7 @@
 <span style="font-size:10px;">- 🌀 Currently working on open source projects and crypto based casinos for some big NFT projects.
 
 <span style="font-size:10px;">- 🤝 I am looking for a full-time position in the SWE field.
-  
-  #### **I am currently working part time for [LeanIX](https://www.leanix.net/), and do SWE consulting on the side.** ####
+
+  <span style="font-size:10px;">- 🥥 I am currently working part time for [LeanIX](https://www.leanix.net/), and do SWE consulting on the side.
 
 <span style="font-size:10px;">- 🚧 Some stuff I help build: [jellydrop.io](https://www.jellydrop.io/) // [looties.app](https://www.looties.app/) // [bentleyblockchain.com](https://www.bentleyblockchain.com/) </span>
