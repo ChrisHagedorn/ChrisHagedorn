@@ -2,6 +2,8 @@
 
 ##### **I'm a Full-Stack Web Developer currently studying at Bentley University in Waltham, MA.**
 
+**I work part time for [LeanIX](https://www.leanix.net/)**
+
 <span style="font-size: 12px; font-weight: bold;">BIO</span>
 
 <span style="font-size: 10px;">- 📫 How to reach me: chagedorn@falcon.bentley.edu</span>
