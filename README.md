@@ -23,4 +23,4 @@
 
   <span style="font-size:10px;">- 🥥 I am currently working part time for [LeanIX](https://www.leanix.net/), and do SWE consulting on the side.
 
-<span style="font-size:10px;">- 🚧 Some stuff I help build: [jellydrop.io](https://www.jellydrop.io/) // [looties.app](https://www.looties.app/) // [bentleyblockchain.com](https://www.bentleyblockchain.com/) </span> // [greatgoats.io](https://www.greatgoats.io/)
+<span style="font-size:10px;">- 🚧 Some stuff I help build: [jellydrop.io](https://www.jellydrop.io/) // [looties.app](https://www.looties.app/) // [bentleyblockchain.com](https://www.bentleyblockchain.com/) </span> // [greatgoats.io](https://www.greatgoats.io/) // [jikan.so] (https://pre-evolve.jikan.so/)
