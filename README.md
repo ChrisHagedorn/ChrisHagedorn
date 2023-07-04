@@ -14,7 +14,9 @@
 <span style="font-size10px;">- 🤖 I use 
 <code>.react</code>,
 <code>.js</code>,
-<code>.typescript</code> daily.
+<code>.typescript</code>
+<code>.c</code>
+<code>.python</code> daily.
 </span>
 
 <span style="font-size:10px;">- 🌀 Currently working on open source projects and crypto based casinos for some big NFT projects.
