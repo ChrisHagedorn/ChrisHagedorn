@@ -1,6 +1,6 @@
 ## Hi there ☀️👨🏻‍💻
 
-##### **I'm a Full-Stack Web Developer currently studying at Bentley University in Waltham, MA.**
+##### **I'm a Full-Stack Web Developer and Quantitative Software Engineer**
 
 
 <span style="font-size: 12px; font-weight: bold;">BIO</span>
