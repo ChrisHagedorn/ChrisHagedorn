@@ -7,7 +7,7 @@
 
 <span style="font-size: 10px;">- 📫 How to reach me: chagedorn@falcon.bentley.edu</span>
 
-<span style="font-size:10px;">- 💬 How to work with me: [devplex studio](https://devplex.studio/)</span>
+<span style="font-size:10px;">- 💬 How to work with me: [please send a direct message on telegram or email]</span>
 
 <span style="font-size:10px;">- 💬 Telegram: @chrishagedorn</span>
 
