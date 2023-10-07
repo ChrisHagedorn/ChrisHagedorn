@@ -25,4 +25,4 @@
 
 <span style="font-size:10px;">- 🚧 Some stuff I help build: [jellydrop.io](https://www.jellydrop.io/) // [bentleyblockchain.com](https://www.bentleyblockchain.com/) </span> // [greatgoats.io](https://www.greatgoats.io/) // [jikan.so](https://pre-evolve.jikan.so/)
 
-<span style="font-size:10px;">- 🔥 For a more accurate demonstration of my work please see the demos in my [resume](https://www.chrishagedorn.dev/resume.pdf) </span>
+<span style="font-size:10px;">- 🔥 For a more accurate demonstration of my work please see the demos in my [resume](https://www.chrishagedorn.dev/resume.pdf). </span>
