@@ -1,6 +1,6 @@
 ## Hi there ☀️👨🏻‍💻
 
-##### **[I'm a Full-Stack Web Developer and Investment Engineer](https://www.chrishagedorn.dev/)**
+##### **[I'm a Web Developer and Investment Engineer](https://www.chrishagedorn.dev/)**
 
 
 <span style="font-size: 12px; font-weight: bold;">BIO</span>
