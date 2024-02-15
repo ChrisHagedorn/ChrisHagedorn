@@ -5,7 +5,7 @@
 
 <span style="font-size: 12px; font-weight: bold;">BIO</span>
 
-<span style="font-size: 10px;">- 📫 How to reach me: chagedorn@falcon.bentley.edu</span>
+<span style="font-size: 10px;">- 📫 How to reach me: tokhagedorn@gmail.com</span>
 
 <span style="font-size:10px;">- 💬 Telegram: @chrishagedorn</span>
 
