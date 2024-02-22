@@ -9,12 +9,12 @@
 
 <span style="font-size:10px;">- 💬 Telegram: @chrishagedorn</span>
 
-<span style="font-size10px;">- 🤖 I use 
+<span style="font-size10px;">- 🤖 I am pretty comfortable with 
 <code>.react</code>,
-<code>.js</code>,
 <code>.typescript</code>
-<code>.c</code>
-<code>.python</code> daily.
+<code>.python</code> 
+<code>.rust*</code> daily.
+
 </span>
 
 <span style="font-size:10px;">- 🌀 Currently working on personal finance projects and crypto-based products for NFT communities.
