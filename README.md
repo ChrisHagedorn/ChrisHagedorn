@@ -1,6 +1,6 @@
 ## Hi there ☀️👨🏻‍💻
 
-##### **[I'm a Web Developer and Investment Engineer](https://www.chrishagedorn.dev/)**
+##### **[Below is some info that I think might be important to you if you are on this page.](https://www.chrishagedorn.dev/)**
 
 
 <span style="font-size: 12px; font-weight: bold;">BIO</span>
