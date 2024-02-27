@@ -12,9 +12,7 @@
 <span style="font-size10px;">- 🤖 I am pretty comfortable with 
 <code>.react</code>,
 <code>.typescript</code>
-<code>.python</code> 
-<code>.rust*</code> daily.
-
+<code>.python</code> and currently learning <code>.rust</code>
 </span>
 
 <span style="font-size:10px;">- 🌀 Currently working on personal finance projects and crypto-based products for NFT communities.
