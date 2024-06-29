@@ -14,6 +14,7 @@
 <code>.typescript</code>
 <code>.python</code> and currently learning <code>.rust</code>
 </span>
+
 <span style="font-size:10px;">- 🤝 I am currently working at @ [Bridgesplit](https://www.bridgesplit.com/).
 
   <span style="font-size:10px;">- 🥥 My prev work was at [LeanIX](https://www.leanix.net/).
