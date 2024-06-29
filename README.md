@@ -17,7 +17,7 @@
 
 <span style="font-size:10px;">- 🌀 Currently working on personal finance projects and crypto-based products for NFT communities.
 
-<span style="font-size:10px;">- 🤝 I am looking for a full-time position in the SWE field.
+<span style="font-size:10px;">- 🤝 I am currently working at @ [Bridgesplit](https://www.bridgesplit.com/)
 
   <span style="font-size:10px;">- 🥥 My prev work was at [LeanIX](https://www.leanix.net/).
 
