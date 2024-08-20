@@ -1,4 +1,4 @@
-x## Hi there ☀️👨🏻‍💻
+## Hi there ☀️👨🏻‍💻
 
 ##### **[Below is some info that I think might be important to you if you are on this page.](https://www.chrishagedorn.dev/)**
 
