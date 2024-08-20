@@ -13,6 +13,6 @@ x## Hi there ☀️👨🏻‍💻
 
   <span style="font-size:10px;">- 🥥 My prev work was at [LeanIX](https://www.leanix.net/).
 
-<span style="font-size:10px;">- 🚧 Some stuff I help build: [bridgesplit](https://app.loopscale.com/) // [medici rwa solana standard](https://github.com/bridgesplit/rwa-token) // </span>[bozo.collective](https://www.bozolist.app/) // [greatgoats.io](https://www.greatgoats.io/) // [jikan.so](https://pre-evolve.jikan.so/).  
+<span style="font-size:10px;">- 🚧 Some stuff I help build: [loopscale](https://app.loopscale.com/) // [medici rwa solana standard](https://github.com/bridgesplit/rwa-token) // </span>[bozo.collective](https://www.bozolist.app/) // [greatgoats.io](https://www.greatgoats.io/) // [jikan.so](https://pre-evolve.jikan.so/).  
 
 <span style="font-size:10px;">- 🔥 For a more work please see the demos in my [resume](https://www.chrishagedorn.dev/resume.pdf), [devplex](https://devplex.org/) or other info at [my personal site](https://www.chrishagedorn.dev/)</span>
